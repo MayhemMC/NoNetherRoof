@@ -1,0 +1,5 @@
+name: NoNetherRoof
+main: com.jmer05.nonetherroof.Main
+version: 0.2.1
+authors: [Josh Merlino]
+api-version: 1.15
